@@ -1,0 +1,16 @@
+name: BLOND
+long_name: Building-Level Office eNvironment Dataset
+creators:
+  - Kriechbaumer, Thomas
+  - Jacobsen, Hans-Arno 
+timezone: Europe/Berlin
+institution: Technische Universität München (TUM)
+description: Continuous energy measurements of a typical office environment at high sampling rates with common appliances and load profiles.
+number_of_buildings: 1
+identifier: http://doi.org/10.14459/2017mp1375836
+subject: Disaggregated power demand from typical office environment.
+geo_location:
+  locality: Munich
+  country: DE
+  latitude: 48.262156
+  longitude: 11.668633

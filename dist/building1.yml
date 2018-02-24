@@ -1,0 +1,5888 @@
+appliances:
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 5
+  meters:
+  - 1
+  original_name: MEDAL Prototype - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 5
+  meters:
+  - 1
+  original_name: MEDAL Prototype - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 5
+  meters:
+  - 1
+  original_name: MEDAL Prototype - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 250
+  meters:
+  - 1
+  original_name: HSM Shredstar - Paper Shredder
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 135
+  meters:
+  - 1
+  original_name: Mannesmann M92577 - Multi-Tool
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 6
+  max_power: 1500
+  meters:
+  - 1
+  original_name: Heller ASY 1507 - Space Heater
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-08T09-00-00
+  instance: 6
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-06-12T11-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 13
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T12-00-00
+  instance: 14
+  max_power: 45
+  meters:
+  - 2
+  original_name: Eurom VS 16 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-08T09-00-00
+  instance: 6
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-12T11-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 13
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T12-00-00
+  instance: 14
+  max_power: 18
+  meters:
+  - 3
+  original_name: Kraftmax BC4000 Pro - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-08T09-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-12T11-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 13
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T12-00-00
+  instance: 14
+  max_power: 130
+  meters:
+  - 4
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-08T09-00-00
+  instance: 6
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-12T11-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 13
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T12-00-00
+  instance: 14
+  max_power: 45
+  meters:
+  - 5
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-06T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-07T09-00-00
+    start: 2016-12-06T09-00-00
+  instance: 4
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-08T09-00-00
+    start: 2016-12-07T09-00-00
+  instance: 5
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-08T09-00-00
+  instance: 6
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-12T11-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T11-00-00
+  instance: 13
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-12T12-00-00
+  instance: 14
+  max_power: 60
+  meters:
+  - 6
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-18-00
+    start: 2016-11-21T11-15-00
+  instance: 1
+  max_power: 1800
+  meters:
+  - 7
+  original_name: Severin WK3364 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-20-00
+    start: 2016-11-21T11-18-00
+  instance: 2
+  max_power: 135
+  meters:
+  - 7
+  original_name: Mannesmann M92577 - Multi-Tool
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-27T10-25-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 8
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 8
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 8
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 8
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-26T11-15-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 8
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-15-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-18-00
+    start: 2016-11-21T11-15-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-20-00
+    start: 2016-11-21T11-18-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T11-20-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-27T10-25-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 10
+  meters:
+  - 9
+  original_name: Aukru BS-522 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-27T10-25-00
+  instance: 10
+  max_power: 65
+  meters:
+  - 9
+  original_name: Lenovo B560 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 11
+  max_power: 65
+  meters:
+  - 9
+  original_name: Lenovo B560 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-26T11-15-00
+  instance: 12
+  max_power: 50
+  meters:
+  - 9
+  original_name: VOV VTS-1641 - Fan
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-15-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-18-00
+    start: 2016-11-21T11-15-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-20-00
+    start: 2016-11-21T11-18-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T11-20-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-27T10-25-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-27T10-25-00
+  instance: 10
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 11
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 12
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 13
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-26T11-15-00
+  instance: 14
+  max_power: 133
+  meters:
+  - 10
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-15-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-18-00
+    start: 2016-11-21T11-15-00
+  instance: 3
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-20-00
+    start: 2016-11-21T11-18-00
+  instance: 4
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T11-20-00
+  instance: 5
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 6
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-27T10-25-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-27T10-25-00
+  instance: 10
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 11
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 12
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 13
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-26T11-15-00
+  instance: 14
+  max_power: 45
+  meters:
+  - 11
+  original_name: Dell UP2716D - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-15-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-18-00
+    start: 2016-11-21T11-15-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T11-20-00
+    start: 2016-11-21T11-18-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T11-20-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-27T10-25-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-27T10-25-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-09T14-30-00
+    start: 2017-04-21T18-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 13
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-26T11-15-00
+  instance: 14
+  max_power: 130
+  meters:
+  - 12
+  original_name: Dell E6540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-05T11-30-00
+  instance: 1
+  max_power: 5
+  meters:
+  - 13
+  original_name: generic - Electric Toothbrush
+  type: appliance
+- dates_active:
+  - end: 2016-10-05T10-00-00
+    start: 2016-10-04T10-00-00
+  instance: 1
+  max_power: 12
+  meters:
+  - 14
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-05T10-00-00
+    start: 2016-10-04T10-00-00
+  instance: 1
+  max_power: 45
+  meters:
+  - 15
+  original_name: MacBook Air - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-04T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-05T10-00-00
+    start: 2016-10-04T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-05T10-00-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-05T11-30-00
+  instance: 11
+  max_power: 133
+  meters:
+  - 16
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-04T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-05T10-00-00
+    start: 2016-10-04T10-00-00
+  instance: 2
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-05T10-00-00
+  instance: 3
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 4
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-05T11-30-00
+  instance: 11
+  max_power: 65
+  meters:
+  - 17
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-04T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-05T10-00-00
+    start: 2016-10-04T10-00-00
+  instance: 2
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-05T10-00-00
+  instance: 3
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 4
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-05T11-30-00
+  instance: 11
+  max_power: 65
+  meters:
+  - 18
+  original_name: Lenovo T450 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-30T08-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 21
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-26T07-00-00
+    start: 2017-04-25T07-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 21
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-30T08-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-30T08-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-25T07-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-26T07-00-00
+    start: 2017-04-25T07-00-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-26T07-00-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 23
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-30T08-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-30T08-00-00
+  instance: 6
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-25T07-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-26T07-00-00
+    start: 2017-04-25T07-00-00
+  instance: 10
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-26T07-00-00
+  instance: 11
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 90
+  meters:
+  - 24
+  original_name: Lenovo T420 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-10T10-00-00
+    start: 2016-11-07T08-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 25
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T08-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-10T10-00-00
+    start: 2016-11-07T08-00-00
+  instance: 3
+  max_power: 92
+  meters:
+  - 26
+  original_name: Sony Vaio VGN FW54M - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-09T08-00-00
+    start: 2016-11-14T08-00-00
+  instance: 4
+  max_power: 30
+  meters:
+  - 26
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-09T08-00-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 10
+  meters:
+  - 26
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-14T08-00-00
+    start: 2016-11-10T10-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 27
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-09T08-00-00
+  instance: 2
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 3
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 4
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 5
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 6
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 7
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 8
+  max_power: 30
+  meters:
+  - 27
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T08-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-10T10-00-00
+    start: 2016-11-07T08-00-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-14T08-00-00
+    start: 2016-11-10T10-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-09T08-00-00
+    start: 2016-11-14T08-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-09T08-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 28
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T08-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-10T10-00-00
+    start: 2016-11-07T08-00-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-14T08-00-00
+    start: 2016-11-10T10-00-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-09T08-00-00
+    start: 2016-11-14T08-00-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-09T08-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 133
+  meters:
+  - 29
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T08-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-10T10-00-00
+    start: 2016-11-07T08-00-00
+  instance: 3
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-14T08-00-00
+    start: 2016-11-10T10-00-00
+  instance: 4
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-09T08-00-00
+    start: 2016-11-14T08-00-00
+  instance: 5
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-09T08-00-00
+  instance: 6
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 7
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 8
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 85
+  meters:
+  - 30
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 32
+  original_name: Sony - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 10
+  meters:
+  - 34
+  original_name: Samsung Travel - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 35
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 65
+  meters:
+  - 36
+  original_name: Lenovo X230 i7 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 37
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 37
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 37
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 37
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 37
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-23T17-15-00
+  instance: 6
+  max_power: 635
+  meters:
+  - 37
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 635
+  meters:
+  - 37
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 635
+  meters:
+  - 37
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 635
+  meters:
+  - 37
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-12T14-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-12T14-00-00
+  instance: 2
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-11-16T10-45-00
+    start: 2016-10-28T10-00-00
+  instance: 3
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 4
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 635
+  meters:
+  - 38
+  original_name: Dell T3600 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-12T14-00-00
+  instance: 1
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-11-16T10-45-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 3
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-23T17-15-00
+  instance: 8
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 65
+  meters:
+  - 39
+  original_name: Dell Optiplex 7040 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-12T14-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-12T14-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-16T10-45-00
+    start: 2016-10-28T10-00-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-23T17-15-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 40
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-12T14-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 180
+  meters:
+  - 41
+  original_name: Schenker W502 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-12T14-00-00
+  instance: 2
+  max_power: 180
+  meters:
+  - 41
+  original_name: Schenker W502 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-16T10-45-00
+    start: 2016-10-28T10-00-00
+  instance: 3
+  max_power: 180
+  meters:
+  - 41
+  original_name: Schenker W502 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-23T17-15-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 41
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-12T14-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-12T14-00-00
+  instance: 2
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-11-16T10-45-00
+    start: 2016-10-28T10-00-00
+  instance: 3
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-16T10-45-00
+  instance: 4
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-15-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-23T17-15-00
+  instance: 9
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 15
+  meters:
+  - 42
+  original_name: inateck UC2001 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-24T14-00-00
+    start: 2017-02-23T17-00-00
+  instance: 1
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-24T14-00-00
+  instance: 2
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T10-45-00
+    start: 2017-03-17T18-30-00
+  instance: 3
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T10-45-00
+  instance: 4
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 6
+  max_power: 1200
+  meters:
+  - 43
+  original_name: custom built - PC
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-24T14-00-00
+  instance: 1
+  max_power: 65
+  meters:
+  - 44
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T10-45-00
+    start: 2017-03-17T18-30-00
+  instance: 2
+  max_power: 65
+  meters:
+  - 44
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-00-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-24T14-00-00
+    start: 2017-02-23T17-00-00
+  instance: 7
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-24T14-00-00
+  instance: 8
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T10-45-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T10-45-00
+  instance: 10
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 85
+  meters:
+  - 46
+  original_name: MacBook Pro 15'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-23T17-00-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-24T14-00-00
+    start: 2017-02-23T17-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-24T14-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T10-45-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T10-45-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 47
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-24T14-00-00
+    start: 2017-02-23T17-00-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-24T14-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T10-45-00
+    start: 2017-03-17T18-30-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T10-45-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 6
+  max_power: 90
+  meters:
+  - 48
+  original_name: Tegra Jetson - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2017-01-18T08-00-00
+    start: 2017-01-12T08-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 49
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-09T08-00-00
+    start: 2017-02-03T08-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 49
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-15T08-00-00
+    start: 2017-02-14T08-00-00
+  instance: 3
+  max_power: 60
+  meters:
+  - 49
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-14T10-00-00
+    start: 2017-03-09T10-00-00
+  instance: 4
+  max_power: 120
+  meters:
+  - 49
+  original_name: ASUS N750JV - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-03-15T10-00-00
+  instance: 5
+  max_power: 120
+  meters:
+  - 49
+  original_name: ASUS N750JV - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-12T08-00-00
+    start: 2017-01-10T08-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 50
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-01T08-00-00
+    start: 2017-01-31T08-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 50
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-28T10-00-00
+    start: 2017-02-27T08-00-00
+  instance: 3
+  max_power: 60
+  meters:
+  - 50
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T14-00-00
+    start: 2016-10-17T10-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 51
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-21T08-00-00
+    start: 2016-10-20T08-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 51
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-19T08-00-00
+    start: 2017-01-18T08-00-00
+  instance: 3
+  max_power: 60
+  meters:
+  - 51
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-31T08-00-00
+    start: 2017-01-27T08-00-00
+  instance: 4
+  max_power: 60
+  meters:
+  - 51
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-03T08-00-00
+    start: 2017-02-02T08-00-00
+  instance: 5
+  max_power: 60
+  meters:
+  - 51
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-09T10-00-00
+    start: 2017-02-28T10-00-00
+  instance: 6
+  max_power: 120
+  meters:
+  - 51
+  original_name: ASUS N750JV - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-15T10-00-00
+    start: 2017-03-14T10-00-00
+  instance: 7
+  max_power: 120
+  meters:
+  - 51
+  original_name: ASUS N750JV - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-20T08-00-00
+    start: 2016-10-17T14-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-21T08-00-00
+  instance: 3
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 4
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-27T08-00-00
+    start: 2017-01-19T08-00-00
+  instance: 5
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-02T08-00-00
+    start: 2017-02-01T08-00-00
+  instance: 6
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-14T08-00-00
+    start: 2017-02-10T08-00-00
+  instance: 7
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-02-15T08-00-00
+  instance: 8
+  max_power: 60
+  meters:
+  - 52
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-27T08-00-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 36
+  meters:
+  - 52
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T14-00-00
+    start: 2016-10-17T10-00-00
+  instance: 2
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-20T08-00-00
+    start: 2016-10-17T14-00-00
+  instance: 3
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-21T08-00-00
+    start: 2016-10-20T08-00-00
+  instance: 4
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-21T08-00-00
+  instance: 5
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 6
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T10-00-00
+  instance: 7
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 8
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T08-00-00
+    start: 2016-12-23T09-00-00
+  instance: 9
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-12T08-00-00
+    start: 2017-01-10T08-00-00
+  instance: 10
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-18T08-00-00
+    start: 2017-01-12T08-00-00
+  instance: 11
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-19T08-00-00
+    start: 2017-01-18T08-00-00
+  instance: 12
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-27T08-00-00
+    start: 2017-01-19T08-00-00
+  instance: 13
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-31T08-00-00
+    start: 2017-01-27T08-00-00
+  instance: 14
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-01T08-00-00
+    start: 2017-01-31T08-00-00
+  instance: 15
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-02T08-00-00
+    start: 2017-02-01T08-00-00
+  instance: 16
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-03T08-00-00
+    start: 2017-02-02T08-00-00
+  instance: 17
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-09T08-00-00
+    start: 2017-02-03T08-00-00
+  instance: 18
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-10T08-00-00
+    start: 2017-02-09T08-00-00
+  instance: 19
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-14T08-00-00
+    start: 2017-02-10T08-00-00
+  instance: 20
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-15T08-00-00
+    start: 2017-02-14T08-00-00
+  instance: 21
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-02-15T08-00-00
+  instance: 22
+  max_power: 36
+  meters:
+  - 53
+  original_name: Fujitsu-Siemens P17-1 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-10-17T14-00-00
+    start: 2016-10-17T10-00-00
+  instance: 2
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-10-20T08-00-00
+    start: 2016-10-17T14-00-00
+  instance: 3
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-10-21T08-00-00
+    start: 2016-10-20T08-00-00
+  instance: 4
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-10-21T08-00-00
+  instance: 5
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-11-21T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 6
+  max_power: 30
+  meters:
+  - 54
+  original_name: FPGA Xilinx ML505 - Dev Board
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-21T10-00-00
+  instance: 7
+  max_power: 60
+  meters:
+  - 54
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 8
+  max_power: 60
+  meters:
+  - 54
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T08-00-00
+    start: 2016-12-23T09-00-00
+  instance: 9
+  max_power: 60
+  meters:
+  - 54
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-10T08-00-00
+    start: 2017-02-09T08-00-00
+  instance: 10
+  max_power: 60
+  meters:
+  - 54
+  original_name: MacBook Pro 13 Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T10-45-00
+  instance: 11
+  max_power: 65
+  meters:
+  - 54
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 12
+  max_power: 65
+  meters:
+  - 54
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 13
+  max_power: 65
+  meters:
+  - 54
+  original_name: Dell OptiPlex 9020 - PC
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 55
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 56
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2016-12-01T12-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 56
+  original_name: Philips HF3430 - Daylight
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-12-01T12-00-00
+  instance: 3
+  max_power: 100
+  meters:
+  - 56
+  original_name: DJI Phantom 3 - Battery Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-01T12-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-12-01T12-00-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 10
+  max_power: 10
+  meters:
+  - 57
+  original_name: Hama 0091321 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-01T12-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-12-01T12-00-00
+  instance: 3
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 10
+  max_power: 170
+  meters:
+  - 58
+  original_name: Lenovo X230 i5 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-01T12-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-12-01T12-00-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 10
+  max_power: 133
+  meters:
+  - 59
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-01T12-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-12-01T12-00-00
+  instance: 3
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 9
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 10
+  max_power: 22
+  meters:
+  - 60
+  original_name: Dell P2210 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-05-12T08-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 61
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-05-12T08-00-00
+    start: 2017-04-23T08-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 62
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-23T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-05-12T08-00-00
+    start: 2017-04-23T08-00-00
+  instance: 9
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-05-12T08-00-00
+  instance: 10
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 12
+  meters:
+  - 63
+  original_name: Apple MD836ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-04-23T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-05-12T08-00-00
+    start: 2017-04-23T08-00-00
+  instance: 9
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-05-12T08-00-00
+  instance: 10
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 425
+  meters:
+  - 64
+  original_name: HP Laserjet Pro 400 - Printer
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-23T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-05-12T08-00-00
+    start: 2017-04-23T08-00-00
+  instance: 9
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-05-12T08-00-00
+  instance: 10
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 133
+  meters:
+  - 65
+  original_name: Dell U2711 - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-23T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-05-12T08-00-00
+    start: 2017-04-23T08-00-00
+  instance: 9
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-05-12T08-00-00
+  instance: 10
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 90
+  meters:
+  - 66
+  original_name: Lenovo Carbon X1 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 100
+  meters:
+  - 70
+  original_name: generic - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 450
+  meters:
+  - 71
+  original_name: Epson EB-65950 - Projector
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-03-17T18-30-00
+  instance: 7
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 8
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 9
+  max_power: 210
+  meters:
+  - 72
+  original_name: Projecta DC 485 - Screen Motor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-02-10T15-00-00
+  instance: 1
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 2
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T13-00-00
+    start: 2017-03-17T18-30-00
+  instance: 3
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T13-00-00
+  instance: 4
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-04-24T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-24T08-00-00
+  instance: 6
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 7
+  max_power: 2000
+  meters:
+  - 73
+  original_name: Clatronic WK 3445 - Kettle
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2017-01-13T10-00-00
+  instance: 1
+  max_power: 10
+  meters:
+  - 76
+  original_name: Sony Ericsson EP 800 - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T09-25-00
+    start: 2016-10-24T09-00-00
+  instance: 1
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T09-25-00
+  instance: 2
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-13T10-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2017-01-13T10-00-00
+  instance: 5
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-10T15-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-02-10T15-00-00
+  instance: 7
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T13-00-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T13-00-00
+  instance: 10
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-24T08-00-00
+    start: 2017-04-21T18-30-00
+  instance: 11
+  max_power: 45
+  meters:
+  - 77
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-24T09-00-00
+    start: 2016-10-21T10-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T09-25-00
+    start: 2016-10-24T09-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-28T09-25-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-13T10-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2017-01-13T10-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-10T15-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-02-10T15-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-02-17T17-00-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T13-00-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 78
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-24T08-00-00
+  instance: 11
+  max_power: 45
+  meters:
+  - 78
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 12
+  max_power: 45
+  meters:
+  - 78
+  original_name: Dell XPS13 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T14-00-00
+    start: 2016-11-04T15-10-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-07T14-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-13T09-00-00
+    start: 2017-02-17T17-00-00
+  instance: 6
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-03-13T09-00-00
+  instance: 7
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-18T08-00-00
+    start: 2017-03-17T18-30-00
+  instance: 8
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-19T10-35-00
+  instance: 9
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 10
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 11
+  max_power: 90
+  meters:
+  - 79
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-04T15-10-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-11-07T14-00-00
+    start: 2016-11-04T15-10-00
+  instance: 3
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-07T14-00-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 7
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-13T09-00-00
+    start: 2017-02-17T17-00-00
+  instance: 8
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-03-13T09-00-00
+  instance: 9
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-18T08-00-00
+    start: 2017-03-17T18-30-00
+  instance: 10
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-19T10-35-00
+    start: 2017-04-18T08-00-00
+  instance: 11
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-19T10-35-00
+  instance: 12
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 13
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 14
+  max_power: 130
+  meters:
+  - 81
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-10-28T10-00-00
+    start: 2016-09-28T17-00-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 84
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-11-04T15-10-00
+    start: 2016-10-28T10-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 84
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-11-07T14-00-00
+  instance: 3
+  max_power: 10
+  meters:
+  - 84
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-12-23T09-00-00
+    start: 2016-12-02T10-00-00
+  instance: 4
+  max_power: 10
+  meters:
+  - 84
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-01-10T18-00-00
+    start: 2016-12-23T09-00-00
+  instance: 5
+  max_power: 10
+  meters:
+  - 84
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-02-17T17-00-00
+    start: 2017-01-10T18-00-00
+  instance: 6
+  max_power: 10
+  meters:
+  - 84
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-13T09-00-00
+    start: 2017-02-17T17-00-00
+  instance: 7
+  max_power: 10
+  meters:
+  - 84
+  original_name: generic - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-03-17T18-30-00
+    start: 2017-03-13T09-00-00
+  instance: 8
+  max_power: 10
+  meters:
+  - 84
+  original_name: Chromecast - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-18T08-00-00
+    start: 2017-03-17T18-30-00
+  instance: 9
+  max_power: 10
+  meters:
+  - 84
+  original_name: Chromecast - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-19T10-35-00
+    start: 2017-04-18T08-00-00
+  instance: 10
+  max_power: 90
+  meters:
+  - 84
+  original_name: Lenovo L540 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-19T10-35-00
+  instance: 11
+  max_power: 10
+  meters:
+  - 84
+  original_name: Chromecast - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 12
+  max_power: 10
+  meters:
+  - 84
+  original_name: Chromecast - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 13
+  max_power: 10
+  meters:
+  - 84
+  original_name: Chromecast - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-11T08-00-00
+    start: 2016-10-02T16-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 85
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-10-11T08-00-00
+    start: 2016-10-02T16-00-00
+  instance: 1
+  max_power: 5
+  meters:
+  - 87
+  original_name: Apple MD813ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-22T08-00-00
+    start: 2016-10-11T08-00-00
+  instance: 2
+  max_power: 5
+  meters:
+  - 87
+  original_name: Apple MD813ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2016-10-22T08-00-00
+    start: 2016-10-11T08-00-00
+  instance: 1
+  max_power: 60
+  meters:
+  - 88
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-22T08-00-00
+  instance: 2
+  max_power: 60
+  meters:
+  - 88
+  original_name: MacBook Pro 13'' Mid-2014 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-07T08-00-00
+    start: 2017-04-03T08-00-00
+  instance: 1
+  max_power: 90
+  meters:
+  - 89
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-11T08-00-00
+    start: 2017-04-10T08-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 89
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-13T00-01-00
+    start: 2017-04-12T08-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 89
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T00-01-00
+  instance: 4
+  max_power: 130
+  meters:
+  - 89
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 130
+  meters:
+  - 89
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 6
+  max_power: 130
+  meters:
+  - 89
+  original_name: Dell U2713Hb - Monitor
+  type: appliance
+- dates_active:
+  - end: 2016-12-02T10-00-00
+    start: 2016-10-22T08-00-00
+  instance: 1
+  max_power: 5
+  meters:
+  - 90
+  original_name: Apple MD813ZM - USB Charger
+  type: appliance
+- dates_active:
+  - end: 2017-04-10T08-00-00
+    start: 2017-04-07T08-00-00
+  instance: 2
+  max_power: 90
+  meters:
+  - 90
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-12T08-00-00
+    start: 2017-04-11T08-00-00
+  instance: 3
+  max_power: 90
+  meters:
+  - 90
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-04-21T18-30-00
+    start: 2017-04-13T00-01-00
+  instance: 4
+  max_power: 90
+  meters:
+  - 90
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-04-21T18-30-00
+  instance: 5
+  max_power: 90
+  meters:
+  - 90
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+- dates_active:
+  - end: 2017-06-30T00-00-00
+    start: 2017-06-09T14-30-00
+  instance: 6
+  max_power: 90
+  meters:
+  - 90
+  original_name: Lenovo T530 - Laptop
+  type: appliance
+elec_meters:
+  1: &id001
+    device_model: Medal
+  2: *id001
+  3: *id001
+  4: *id001
+  5: *id001
+  6: *id001
+  7: *id001
+  8: *id001
+  9: *id001
+  10: *id001
+  11: *id001
+  12: *id001
+  13: *id001
+  14: *id001
+  15: *id001
+instance: 1
+original_name: office

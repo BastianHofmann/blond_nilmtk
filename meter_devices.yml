@@ -1,0 +1,5 @@
+medal:
+  model: Medal
+  measurements:
+    - physical_quantity: current
+    - physical_quantity: voltage
